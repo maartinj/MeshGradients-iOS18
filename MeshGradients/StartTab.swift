@@ -8,6 +8,7 @@
 // Link: https://www.youtube.com/watch?v=s_eQZ8rRV8Y
 // MeshGradient Background Creator App: https://www.youtube.com/watch?v=zWW--SAoyVc
 // Link to app: https://www.createchsol.com/StarterProjects/MeshGraidentCreator.dmg.zip
+// Link to GitHub Repo: https://github.com/StewartLynch/Mesh-Background-Creator
 
 import SwiftUI
 
